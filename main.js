@@ -71,7 +71,10 @@ getPostItem(postWall, posts);
 
 /**********************
 FUNZIONI
- *********************/
+**********************/
+/*
+Generazione post e print a schermo
+*/
 
 function getPostItem(postWall, posts) {
   // Pulisco HTML da elementi
